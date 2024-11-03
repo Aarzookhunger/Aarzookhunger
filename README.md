@@ -22,19 +22,6 @@ I'm a Computer Science student at UIET, Panjab University, Chandigarh. Passionat
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aarzookhunger&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aarzookhunger&limit=5&theme=radical&combine_all_yearly_contributions=true)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-[![](https://visitcount.itsvg.in/api?id=Aarzookhunger&icon=0&color=1)](https://visitcount.itsvg.in)
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Aarzookhunger/count.svg?"  />
-</div>
-
-
-[![Aarzoo's GitHub | Stats](https://stats.quine.sh/Aarzookhunger/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Aarzookhunger)
-
-[![Aarzoo's GitHub | Languages Over Time](https://stats.quine.sh/Aarzookhunger/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Aarzookhunger)
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarzoo-khunger-395b91251/)
 
