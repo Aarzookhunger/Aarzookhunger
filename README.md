@@ -2,6 +2,16 @@
 
 I'm a Computer Science student at UIET, Panjab University, Chandigarh. Passionate about competitive programming, open-source contributions, and developing innovative projects!
 
+### 👨‍💻 My Coding Profiles
+
+<a href="https://www.geeksforgeeks.org/user/aarzookhpvm3/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
+</a>
+<a href="https://leetcode.com/khunger_aarzoo/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+</a>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aarzookhunger&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aarzookhunger&theme=blue-green&hide_border=false)<br/>
