@@ -11,6 +11,8 @@ I'm a Computer Science student at UIET, Panjab University, Chandigarh. Passionat
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
 </a>
 
+### GitHub Profile Views
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Aarzookhunger.Aarzookhunger)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aarzookhunger&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
