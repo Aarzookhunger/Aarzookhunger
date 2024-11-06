@@ -29,7 +29,7 @@ I'm a Computer Science student at UIET, Panjab University, Chandigarh. Passionat
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Aarzookhunger&theme=react-dark"/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aarzookhunger&theme=radical&no-frame=false&no-bg=false&margin-w=4)
