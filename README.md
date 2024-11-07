@@ -15,7 +15,6 @@ I'm a Computer Science student at UIET, Panjab University, Chandigarh. Passionat
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Aarzookhunger.Aarzookhunger)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aarzookhunger&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aarzookhunger&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarzookhunger&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <div align="center">
